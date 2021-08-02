@@ -1,0 +1,301 @@
+*{
+    margin: 0 auto;
+    padding: 0 auto;
+}
+.navbar{
+    width: 1600px;
+    height: 2470px;
+    background-color: blanchedalmond;
+}
+.backgr{
+    height: 700px;
+    background-color: rgba(0, 0, 0, 0.637);
+}
+.back{
+    width: 1600px;
+    height: 700px;
+    background-image: url(../img/2990_9827327865_98e0f0dc2d_o.jpg);
+    background-repeat: no-repeat;
+    background-size: 1600px 700px;
+}
+.signin{
+    font-size: 25px;
+    padding-left: 1100px ;
+    margin-top: -33px;
+}
+.aspen{
+    position: relative;
+    font-size: 25px;
+    top: 25px;
+    padding-left: 300px;
+}
+h1{
+    padding-left: 300px;
+    padding-top: 200px;
+    color: white;
+}
+p{
+    padding-left: 300px ;
+    padding-top: 30px;
+    color: white;
+}
+input{
+    width: 250px;
+    height: 30px;
+    margin-top: 60px;
+    margin-left: 300px;
+    border-radius: 8px;
+}
+.buttonn{
+    width: 130px;
+     height: 35px;
+     border-radius: 8px;
+     background-color: rgb(42, 94, 238);
+     color: white;
+}
+main{
+    width: 1600px;
+    height: 500px;
+    background-color: white;
+}
+h2{
+    padding-top: 30px;
+    text-align: center;
+    color: blue;
+    font-size:30px;
+    
+}
+.gap1{
+    color: black;
+    font-size: 10px;
+    text-align: center;
+    padding-right: 300px;
+}
+.img1{
+    width: 600px;
+    height: 400px;
+    background-image: url(../img/transfer-photos-to-pc-removebg-preview.png);
+    margin-right: 500px ;
+    background-size: 600px 340px;
+}
+section{
+    width: 1600px;
+    height: 500px;
+    background-color: rgb(32, 160, 219);
+}
+h3{
+    padding-top: 30px;
+    text-align: center;
+    font-size: 25px;
+    line-height: 20px;
+    color: white;
+}
+.gap2{
+    text-align: center;
+    padding-right: 300px;
+    font-size: 10px;
+    line-height: 15px;
+    margin-top: -20px;
+}
+.box1{
+    width: 200px;
+    height: 250px;
+    margin-top: 70px;
+    margin-left: 450px ;
+    background-color: white;
+}
+.box2{
+    width: 200px;
+    height: 250px;
+    margin-top: -50px;
+    margin-left: 220px ;
+    background-color: white;
+}
+.box3{
+    width: 200px;
+    height: 250px;
+    margin-top: -250px;
+    margin-left: 440px ;
+    background-color: white;
+}
+.button1{
+    position: relative;
+     top: 205px;
+     left: -32px;
+     width: 185px;
+     height: 35px;
+     background-color: rgb(79, 182, 93);
+     border-radius: 5px;
+     border: none;
+}
+.button2{
+    position: relative;
+    top: 155px;
+    left: 8px;
+    width: 185px;
+    height: 35px;
+    background-color: rgb(79, 182, 93);
+    border-radius: 5px;
+    border: none;
+}
+.button3{
+   
+    margin-top: 155px;
+    margin-left: 8px;
+    width: 185px;
+    height: 35px;
+    background-color: rgb(79, 182, 93);
+    border-radius: 5px;
+    border: none;
+}
+.div1{
+    position: relative;
+    width: 160px;
+    height: 50px;
+    margin-top: 0 auto;
+    background-color: rgba(0, 0, 0, 0.089);
+    box-shadow: 0px 0.5px 0px 0px gray ;
+    font-size: 20px;  
+    padding-left: 40px;
+    
+    
+}
+.gaap{
+    position: relative;
+    top: 100px;
+    left: 170px;
+    color: black;
+}
+.section2{
+    width: 1600px;
+    height: 400px;
+    background-color: rgb(255, 255, 255);
+}
+.section3{
+    width: 1600px;
+    height: 200px;
+    background-image: url(../img/photo_2021-07-29_21-39-04.jpg) ;
+    background-repeat: no-repeat;
+    background-size: 1600px 300px;
+   
+}
+.section4{
+    width: 1600px;
+    height: 100px;
+    background-color: rgb(53, 106, 252);
+}
+.hh{
+    color: black;
+    line-height:1px;
+
+}
+.gap7{
+    color: black;
+    text-align: center;
+    padding-right: 330px;
+    line-height: 20px;
+}
+.backgr2{
+    height: 300px;
+    background-color: rgba(0, 0, 0, 0.637);
+}
+.write1{
+    position: relative;
+    color: black;
+    font-size: 10px;
+    top: 20px;
+}
+h6{
+    position: relative;
+    padding-left: 650px;
+    top: -38px;
+    color: rgba(0, 0, 0, 0.562);
+}
+.h7{
+    position: relative;
+    padding-left: 1050px;
+    top: -101px;
+}
+.rasm1{
+    width: 60px;
+    height: 60px;
+    background-image: url(../img/Jobs.jpg);
+    background-repeat: no-repeat;
+    background-size: 80px 60px;
+    border-radius: 50px;
+    margin-left: 300px;
+    margin-top: -50px;
+}
+.rasm2{
+    width: 60px;
+    height: 60px;
+    background-image: url(../img/download\ \(1\).jpg);
+    background-repeat: no-repeat;
+    background-size: 60px 60px;
+    border-radius: 50px;
+    margin-left: 650px;
+    margin-top: -58px;
+}
+.rasm3{
+    width: 60px;
+    height: 60px;
+    background-image: url(../img/download.jpg);
+    background-repeat: no-repeat;
+    background-size: 60px 60px;
+    border-radius: 50px;
+    margin-left: 1050px;
+    margin-top: -58px;
+}
+.stiv{
+    position: relative;
+    top: -75px;
+    color: black;
+    left: 80px;
+    font-size: 20px;
+}
+.ilon{
+    position: relative;
+    top: -125px;
+    left: 430px;
+    color: black;
+    font-size: 20px;
+}
+.bill{
+    position: relative;
+    top: -176px;
+    color: black;
+    left: 835px;
+    font-size: 20px;
+}
+.hhh{
+    color: white;
+}
+.lorem15{
+    color: white;
+    padding-top: 50px;
+    padding-left: 550px;
+}
+.input1{
+    margin-left: 550px;
+    margin-top: -10px;
+    width: 350px;
+    border:  none;
+}
+.button-5{
+    width: 140px;
+    height: 35px;
+    border-radius: 8px;
+    background-color: blue;
+    border: none;
+    color: white;
+}
+.oxirgisi{
+    word-spacing: 20px;
+}
+.avenced{
+    position: relative;
+    padding-left: 1000px;
+    top: -55px;
+    font-size: 30px;
+}
+
